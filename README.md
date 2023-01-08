@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HiggsTheBoson
 - 👀 I’m interested in design, computer graphics, 
 - 🌱 I’m currently learning Git, Java (university 1 year), Swift, sass (its a work thing), basic web development workflows 
-- 💞️ I’m looking to collaborate on OnlyFans
-- 📫 How to reach me (to be determined)
+- 📫 How to reach me (to be determined, though for unimportant stuff my Mastodon address is below )
+- 🐘 @higgstheboson@tech.lgbt
 
 <!---
 HiggsTheBoson/HiggsTheBoson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
